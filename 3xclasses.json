@@ -1,0 +1,39 @@
+{
+  "classes": [
+    {
+      "day": "M,W,F",
+      "time": "5:30 am",
+      "coach": "Blyth"
+    },
+    {
+      "day": "M,W,F",
+      "time": "7:30 am",
+      "coach": "Ryan"
+    },
+    {
+      "day": "M,W,F",
+      "time": "8:30 am",
+      "coach": "Blyth"
+    },
+    {
+      "day": "M,W,F",
+      "time": "9:30 am",
+      "coach": "Wendy"
+    },
+    {
+      "day": "M,W,F",
+      "time": "5:00 pm",
+      "coach": "Liana"
+    },
+    {
+      "day": "M,W,F",
+      "time": "6:00 pm",
+      "coach": "Wendy"
+    },
+    {
+      "day": "M,W,F",
+      "time": "7:00 pm",
+      "coach": "Terry\/Liana"
+    }
+  ]
+}
